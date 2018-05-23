@@ -1,6 +1,7 @@
-# filedown
+# filedown 文件下载项目前端代码
+### 配合filedown项目使用
 
-> A Vue.js project
+> A Vue.js filedown project
 
 ## Build Setup
 
