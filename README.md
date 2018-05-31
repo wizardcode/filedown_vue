@@ -1,6 +1,7 @@
-# filedown
+# filedown 文件下载项目前端代码
+### 配合filedown项目使用
 
-> A Vue.js project
+> A Vue.js filedown project
 
 ## Build Setup
 
@@ -17,6 +18,3 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-# filedown_vue
